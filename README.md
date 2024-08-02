@@ -33,7 +33,7 @@ A blog platform with user registration, login, and CRUD operations for posts.
 
 ## Learning and Contributions
 
-- **Continuous Learning:** I am committed to continuous learning and regularly participate in coding challenges, complete online courses, and stay updated with the latest industry trends.
+- **Continuous Learning:** I am committed to continuous learning, complete online courses, and stay updated with the latest industry trends.
 - **Open Source Contributions:** I actively contribute to open-source projects related to Django and web development, gaining experience in collaborative coding and code reviews.
 
 ## Get in Touch
