@@ -12,7 +12,7 @@ Having worked as a Typist and Computer operator. I have completed some online co
 
 - **Programming Languages:** Python, JavaScript (Basic)
 - **Web Development:** Django, Djanog REST Framework, HTML, CSS, Bootstrap
-- **Database Management:** PostgreSQL, SQLite
+- **Database Management:** PostgreSQL, SQLite, MySQL
 - **Version Control:** Git, GitHub
 - **API Integration:** RESTful APIs
 - **Soft Skills:** Problem-solving, attention to detail, effective communication, teamwork
