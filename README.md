@@ -26,13 +26,10 @@ A personal portfolio website built using Django to showcase my projects and skil
 
 ### [Blog Platform](https://github.com/your-username/blog-platform)
 A blog platform with user registration, login, and CRUD operations for posts.
-- **Technologies:** Django, Django REST Framework, JavaScript, PostgreSQL
+- **Technologies:** Django, Django REST Framework, JavaScript, MySQL
 - **Features:** User authentication, RESTful API integration, comment system
 
-### [Project Management Tool](https://github.com/your-username/project-management-tool)
-A project management application with task tracking, user roles, and collaboration features.
-- **Technologies:** Django, React, RESTful APIs, PostgreSQL
-- **Features:** Task tracking, user roles, collaboration tools
+
 
 ## Learning and Contributions
 
@@ -41,8 +38,8 @@ A project management application with task tracking, user roles, and collaborati
 
 ## Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/avinash-prasad-50b486258)
+- **Email:** [your-email@example.com](mailto:avinaashprasadd@gmail.com)
 
 I am excited about this career shift and eager to bring my unique background and skills to the tech industry. I look forward to connecting with professionals and exploring opportunities that align with my career aspirations.
 
