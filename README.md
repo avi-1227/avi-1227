@@ -38,8 +38,8 @@ A blog platform with user registration, login, and CRUD operations for posts.
 
 ## Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/avinash-prasad-50b486258)
-- **Email:** [your-email@example.com](mailto:avinaashprasadd@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/avinash-prasad-50b486258](www.linkedin.com/in/avinash-prasad-50b486258)
+- **Email:** [avinaashprasadd@gmail.com](mailto:avinaashprasadd@gmail.com)
 
 I am excited about this career shift and eager to bring my unique background and skills to the tech industry. I look forward to connecting with professionals and exploring opportunities that align with my career aspirations.
 
